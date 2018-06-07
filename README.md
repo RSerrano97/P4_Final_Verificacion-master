@@ -1,8 +1,5 @@
 ﻿# P4 Final Verificacion
-## Revisión prácticas anteriores
-- Práctica 2: hemos corregido el problema que teníamos en los test unitarios de únicamente recibir un texto vacío y el otro caso que                    teníamos pendiente, que era el de recibir exclusivamente stopwords. Por otro lado, hemos eliminado los espacios que                      teníamos en la cadena de palabras.
 
-- Práctica 3: hemos cambiado el idioma de los steps en inglés, ya que teníamos redundancias en los mismos al ponerlos en castellano.
 
 ## Enunciado
 Partiendo de [la practica anterior] se pide desarrollar:
@@ -36,11 +33,8 @@ Rafael Miguel Serrano López
 ## Video
    [video de la defensa]
     
-[Sergio Blanco]: https://github.com/sergioBMPN
-[Sergio Cuesta]:https://github.com/scj300
-[Miguel Muñiz]: https://github.com/miguelmuniz46
-[Miguel Olmedo]: https://github.com/MiguelOlmedo
-[la practica anterior]:https://github.com/sergioBMPN/Practica3_BDD_Verificacion/
+
+
 [Jenkins]:https://jenkins.io/
 [Redis]:https://redis.io/
 [librerias]:https://github.com/sergioBMPN/Practica3_BDD_Verificacion/blob/master/README.md#software
