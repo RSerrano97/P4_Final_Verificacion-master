@@ -2,7 +2,7 @@
 
 
 ## Enunciado
-Partiendo de [la practica anterior] se pide desarrollar:
+Partiendo de la practica anterior se pide desarrollar:
 -  Herramienta web que conste de una forma de, introducida una url de una fuente de información (periódico, revista, blog…), acceda al texto del artículo y muestre de manera ordenada las palabras utilizadas.
 -  Estos datos se guardarán en alguna base de datos y permitirá la consulta del número de palabras más utilizadas por día
 
